@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A_FPT\\Ky_8_2025\\EXE201\\Game\\CHAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A59AB17-B185-3576-949E-8CBB22A6E2BB}|Assembly-CSharp.csproj|d:\\a_fpt\\ky_8_2025\\exe201\\game\\cham\\assets\\scripts\\openclosepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A59AB17-B185-3576-949E-8CBB22A6E2BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\openclosepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A59AB17-B185-3576-949E-8CBB22A6E2BB}|Assembly-CSharp.csproj|D:\\A_FPT\\Ky_8_2025\\EXE201\\Game\\CHAM\\assets\\scripts\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A59AB17-B185-3576-949E-8CBB22A6E2BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenClosePanel.cs",
+              "DocumentMoniker": "D:\\A_FPT\\Ky_8_2025\\EXE201\\Game\\CHAM\\Assets\\Scripts\\OpenClosePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OpenClosePanel.cs",
+              "ToolTip": "D:\\A_FPT\\Ky_8_2025\\EXE201\\Game\\CHAM\\Assets\\Scripts\\OpenClosePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OpenClosePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:18:21.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckLogin.cs",
+              "DocumentMoniker": "D:\\A_FPT\\Ky_8_2025\\EXE201\\Game\\CHAM\\Assets\\Scripts\\CheckLogin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckLogin.cs",
+              "ToolTip": "D:\\A_FPT\\Ky_8_2025\\EXE201\\Game\\CHAM\\Assets\\Scripts\\CheckLogin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:52:30.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
